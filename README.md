@@ -1,5 +1,5 @@
 # VBA-challenge
-KU Boot Camp Week 2 Challenge - Stock Analysis VBA Script
+UT Boot Camp Week 2 Challenge - Stock Analysis VBA Script
 
 ## Introduction
 This VBA script is designed to analyze stock data across consecutive years. It leverages three primary For Loops to aggregate and calculate key financial indicators for a variety of stocks. The script dynamically accommodates data from different years by incrementing the year as it processes through each worksheet. The output includes the ticker symbol, yearly change, percentage change, and total stock volume, along with the greatest increase, decrease, and total volume metrics.
@@ -38,4 +38,4 @@ This VBA script is designed to analyze stock data across consecutive years. It l
 Contributions are welcome. To propose changes, please reach out with your suggestions or open an issue in the project repository.
 
 ## Credits
-Developed by Albert J. Lee. Inspired by coursework and collaborative learning sessions.
+Developed by Robert C. LaPreze. Inspired by coursework and collaborative learning sessions.
